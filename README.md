@@ -43,7 +43,7 @@ game-day-notifications/
 git clone https://github.com/ifeanyiro9/game-day-notifications.git
 cd game-day-notifications
 ```
-   ###Note: You may choose to create the information yourself.
+   ### Note: You may choose to create the information yourself.
 
 ### 2. Create an SNS Topic
 1. Open the AWS Management Console and navigate to the SNS service.
