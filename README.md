@@ -14,6 +14,7 @@ This project is a sports alert system that sends real-time NBA game day score no
 
 ## Prerequisites
 - Free account and API key at [SportsData.io](https://sportsdata.io).
+  #### Note: Use sportsdata.io account at your own risk. During the challenge it was found that this source may not provide legitimate data. 
 - Personal AWS account with basic understanding of AWS services and Python.
 
 ## Technologies
@@ -43,7 +44,7 @@ game-day-notifications/
 git clone https://github.com/ifeanyiro9/game-day-notifications.git
 cd game-day-notifications
 ```
-   ### Note: You may choose to create the information yourself.
+   #### Note: You may choose to create the information yourself.
 
 ### 2. Create an SNS Topic
 1. Open the AWS Management Console and navigate to the SNS service.
