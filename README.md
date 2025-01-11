@@ -102,7 +102,7 @@ cd game-day-notifications
 4. Under **Targets**, select the Lambda function and save the rule.
 
 ## Sample Data Output
-![Sample Notification Output](notificationapp_sampleoutput.png)
+![Sample Notification Output](noticationapp_sampleoutput.png)
 
 ## Common Issues
 
