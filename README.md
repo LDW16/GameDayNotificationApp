@@ -14,7 +14,7 @@ This project is a sports alert system that sends real-time NBA game day score no
 
 ## Prerequisites
 - Free account and API key at [SportsData.io](https://sportsdata.io).
-  #### Note: Use sportsdata.io account at your own risk. During the challenge it was found that this source may not provide legitimate data. 
+  #### Note: Use sportsdata.io account at your own risk. During development it was found that this source may not provide legitimate data. 
 - Personal AWS account with basic understanding of AWS services and Python.
 
 ## Technologies
